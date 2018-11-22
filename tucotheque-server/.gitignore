@@ -1,0 +1,4 @@
+**/*.pyc
+src/test/conf/discogs.conf
+.project
+.pydevproject
